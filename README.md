@@ -1,5 +1,7 @@
 # Echoverse
 
+![EchoVerse](assets/images/ECHO.png)
+
 EchoVerse is an innovative AI-powered app designed to transform the way students learn by focusing on the power of voice and active engagement. It combines advanced OCR scanning, AI summarization, voice recording and playback, learning analytics, and collaborative sharing in one user-friendly platform.
 
 ## Key Features
